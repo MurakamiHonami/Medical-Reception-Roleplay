@@ -3,11 +3,11 @@
 コールセンターのロールプレイと、応対品質の評価ができます。
 
  - ロールプレイ画面
-   - <img width="540" height="278" alt="ロールプレイ中の画像" src="https://github.com/user-attachments/assets/28c78858-5527-4742-afce-1cf9b4ac26a2" />
+<img width="540" height="278" alt="ロールプレイ中の画像" src="https://github.com/user-attachments/assets/28c78858-5527-4742-afce-1cf9b4ac26a2" />
 
 
 - 応対品質の評価画面
-  - <img width="539" height="364" alt="応対品質評価中の画像" src="https://github.com/user-attachments/assets/b3bcecb4-f647-4742-95ee-a10eabfa49fc" />
+<img width="539" height="364" alt="応対品質評価中の画像" src="https://github.com/user-attachments/assets/b3bcecb4-f647-4742-95ee-a10eabfa49fc" />
 
 
 
